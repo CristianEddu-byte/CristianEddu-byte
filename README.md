@@ -1,6 +1,6 @@
 Hola!, Mi nombre es Cristian Eduardo. Soy Ingeniero en Tecnologias de la Información y Comunicaciones 👋
 
-- Actualmente tengo 22 años 👤
+- Actualmente tengo 23 años 👤
 - Soy originario de Reynosa, Tamps. 🌵
 - Tengo conocimientos en:
 - Mantenimiento a computadoras 💻
