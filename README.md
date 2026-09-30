@@ -6,7 +6,7 @@ Hola!, Mi nombre es <strong>Cristian Eduardo</strong>. Soy <strong>Ingeniero en 
 
 Soy egresado de la Universidad Mexico Americana del Norte (UMAN) 
 
-- Actualmente tengo 23 años 👤
+- Actualmente tengo 24 años 👤
 - Soy originario de Reynosa, Tamps. 🌵
 
 **Tengo conocimientos en:**
